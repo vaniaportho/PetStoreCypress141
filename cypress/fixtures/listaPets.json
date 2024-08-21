@@ -1,0 +1,43 @@
+[
+    {
+        "id": 30497005,
+        "category": {
+            "id": 1,
+            "name": "dog"
+        },
+
+        "name": "Joaquim",
+        "photoUrls": [
+            "string"
+        ],
+
+        "tags": [
+            {
+                "id": 1,
+                "name": "vaccined"
+            }
+        ],
+        "status": "available"
+    },
+
+    {
+        "id": 30497006,
+        "category": {
+            "id": 1,
+            "name": "dog"
+        },
+
+        "name": "Julius",
+        "photoUrls": [
+            "string"
+        ],
+
+        "tags": [
+            {
+                "id": 1,
+                "name": "vaccined"
+            }
+        ],
+        "status": "available"
+    }
+]

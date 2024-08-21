@@ -1,0 +1,16 @@
+{
+    "id": 30497001,
+    "category": {
+      "id": 1,
+      "name": "Cachorro"
+    },
+    "name": "Paçoca",
+    "photoUrls": [],
+    "tags": [
+      {
+        "id": 1,
+        "name": "Vacinado"
+      }
+    ],
+    "status": "sold"
+  }
